@@ -13,13 +13,13 @@
 
 ### 🏠 [Homepage](https://gitlab.com/chatbotleans45/chatbotleans#readme)
 
-## Prerequisites
+## Prerequis
 
 - npm >=5.5.0
 - node >=9.3.0
 - ngrock
 
-## Install
+## Création
 
 
 - Se rendre sur le lien suivant : https://console.actions.google.com/
