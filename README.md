@@ -37,7 +37,7 @@
 - Copie/Coller la dans l’invité de commande. 
 - Si tout ce passe bien, un fichier “creds.data” devrait être créer.
 - Il ne reste ensuite plus qu’a créer le fichier index.js
-## Author
+## Auteurs
 
 👤 **Dan Monceau**
 👤 **Nicolas Bauder**
